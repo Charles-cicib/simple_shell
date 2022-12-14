@@ -111,5 +111,5 @@ gcc -Wall -Wextra -Werror -pedantic *.c -o hsh
 
 ## Authors
 
-* Jose Alvarez de Lugo
-* William Dyrland-Marquis
+* Charles Princewill
+* Izhuchukwu Ugwoha
